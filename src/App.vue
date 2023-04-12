@@ -1,3 +1,5 @@
 <template>
-  <div>Start clean!</div>
+  <div>
+    <h1>Hello, Vue!</h1>
+  </div>
 </template>
